@@ -24,4 +24,4 @@ This repository features a comprehensive analysis of customer segmentation using
 Feel free to explore the notebooks for in-depth analysis and adapt the code for different datasets or model configurations. For questions or contributions, please open an issue or submit a pull request!
 
 
-*Usage**: Ensure `CustomersData.csv` is in the working directory and execute the notebooks to view the results.
+**Usage**: Ensure `CustomersData.csv` is in the working directory and execute the notebooks to view the results.
