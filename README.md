@@ -1,6 +1,6 @@
 ## Consumer Data Classification with SVM and Logistic Regression
 
-This repository features a comprehensive analysis of customer segmentation using two popular machine learning models: Support Vector Machines (SVM) and Logistic Regression. The analysis is performed on a dataset, `CustomersData.csv`, which includes attributes such as age, spending score, and segmentation labels.
+This repository features a comprehensive analysis of customer segmentation using Support Vector Machines (SVM) and Logistic Regression to compare their performance in classification. The analysis uses `CustomersData.csv`, covering attributes like age, spending score, and segmentation labels.
 
 ### Features:
 - **Data Preprocessing**: 
@@ -18,10 +18,11 @@ This repository features a comprehensive analysis of customer segmentation using
   - Decision boundary visualization for SVM with linear kernel.
 
 ### Results:
-- Detailed accuracy metrics and classification reports for both models.
+- Comparison of accuracy metrics and classification reports for both models.
 - Visualizations of decision boundaries and performance metrics.
 
-Feel free to explore the notebooks for in-depth analysis and adapt the code for different datasets or model configurations. For questions or contributions, please open an issue or submit a pull request!
+Explore the notebooks to see how SVM and Logistic Regression differ in classification tasks. For questions or contributions, please open an issue or submit a pull request!
 
+---
 
 **Usage**: Ensure `CustomersData.csv` is in the working directory and execute the notebooks to view the results.
